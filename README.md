@@ -14,5 +14,5 @@ C++, Java, SQL, HTML, Microsoft Access
 - [Project name](link-to-your-repository): one sentence about it
 
 ## Contact
-- LinkedIn: [your profile link]
+- LinkedIn: https://www.linkedin.com/in/nurisha-adilla-9a8930446/
 - Email: nurishaadilla@gmail.com
