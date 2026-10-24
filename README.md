@@ -13,7 +13,7 @@ C++, Java, SQL, HTML, Microsoft Access, Python, VS Code, GitHub
 ## Projects
 - CSC649-plant-health-assessment-system
 - https://github.com/nurishaadilla/CSC649-plant-health-assessment-system
-- An AI-powered plant health assessment system using Convolutional Neural Networks (CNN) to detect leaf diseases and deliver personalized care recommendations.
+- An AI-powered computer vision system that classifies plant leaf diseases using Convolutional Neural Networks (CNN) to assist home gardeners in diagnosing crops and receiving personalized care recommendations.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/nurisha-adilla-9a8930446/
