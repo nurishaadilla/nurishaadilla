@@ -11,9 +11,9 @@ Computer Science student at UiTM interested in software engineering and AI.
 C++, Java, SQL, HTML, Microsoft Access, Python, VS Code, GitHub
 
 ## Projects
--CSC649-plant-health-assessment-system
--https://github.com/nurishaadilla/CSC649-plant-health-assessment-system
--An AI-powered plant health assessment system using Convolutional Neural Networks (CNN) to detect leaf diseases and deliver personalized care recommendations.
+- CSC649-plant-health-assessment-system
+- https://github.com/nurishaadilla/CSC649-plant-health-assessment-system
+- An AI-powered plant health assessment system using Convolutional Neural Networks (CNN) to detect leaf diseases and deliver personalized care recommendations.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/nurisha-adilla-9a8930446/
